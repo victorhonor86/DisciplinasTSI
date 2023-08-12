@@ -1,0 +1,7 @@
+Por que estudar Padrões de Projeto?
+Padrões de projeto servem para deixar o código mais limpo e fácil de ser manipulado, entendido, feita sua manutenção e atualização. Se um código é uma colcha de retalhos e mal escrito fica mais difícil de fazer modificações no mesmo e entender que parte é responsável pelo quê. É importante pensar que o código é feito em um momento de inspiração e que deve ser reescrito para contemplar as doutrinas do código limpo, porque no futuro será visto por outra pessoa ou por você mesmo que não se lembrará de como teve aquelas ideias na época.
+Os pontos principais que foram absorvidos na última aula: 
+I). Utilizar variáveis com nomes relacionados ao que elas são responsáveis. 
+II). Deixar alinhadas as linhas das funções e chaves de if, else, while, for e entre outras. 
+III). Refatoração, ou reescrever, é necessária para arrumar as “gambiarras” de códigos antigos para que estes possam ser modificados no futuro. 
+IV). Uma função/método, como o próprio nome diz é UMA função, se muitas coisas são aplicadas a ela fica mais difícil arrumar. Como diria Larry Tesler: “Você não pode reduzir a complexidade de uma determinada tarefa além de um certo ponto. Depois de chegar a esse ponto, você só pode transferir o fardo.”
